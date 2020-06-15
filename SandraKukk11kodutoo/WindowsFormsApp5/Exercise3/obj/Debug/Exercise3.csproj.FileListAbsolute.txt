@@ -1,0 +1,10 @@
+C:\Users\sandr\source\repos\WindowsFormsApp5\Exercise3\bin\Debug\Exercise3.exe.config
+C:\Users\sandr\source\repos\WindowsFormsApp5\Exercise3\bin\Debug\Exercise3.exe
+C:\Users\sandr\source\repos\WindowsFormsApp5\Exercise3\bin\Debug\Exercise3.pdb
+C:\Users\sandr\source\repos\WindowsFormsApp5\Exercise3\obj\Debug\Exercise3.csprojResolveAssemblyReference.cache
+C:\Users\sandr\source\repos\WindowsFormsApp5\Exercise3\obj\Debug\Exercise3.Form1.resources
+C:\Users\sandr\source\repos\WindowsFormsApp5\Exercise3\obj\Debug\Exercise3.Properties.Resources.resources
+C:\Users\sandr\source\repos\WindowsFormsApp5\Exercise3\obj\Debug\Exercise3.csproj.GenerateResource.Cache
+C:\Users\sandr\source\repos\WindowsFormsApp5\Exercise3\obj\Debug\Exercise3.csproj.CoreCompileInputs.cache
+C:\Users\sandr\source\repos\WindowsFormsApp5\Exercise3\obj\Debug\Exercise3.exe
+C:\Users\sandr\source\repos\WindowsFormsApp5\Exercise3\obj\Debug\Exercise3.pdb

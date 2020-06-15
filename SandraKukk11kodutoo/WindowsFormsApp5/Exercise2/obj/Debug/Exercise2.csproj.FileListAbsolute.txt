@@ -1,0 +1,10 @@
+C:\Users\sandr\source\repos\WindowsFormsApp5\Exercise2\bin\Debug\Exercise2.exe.config
+C:\Users\sandr\source\repos\WindowsFormsApp5\Exercise2\bin\Debug\Exercise2.exe
+C:\Users\sandr\source\repos\WindowsFormsApp5\Exercise2\bin\Debug\Exercise2.pdb
+C:\Users\sandr\source\repos\WindowsFormsApp5\Exercise2\obj\Debug\Exercise2.Form1.resources
+C:\Users\sandr\source\repos\WindowsFormsApp5\Exercise2\obj\Debug\Exercise2.Properties.Resources.resources
+C:\Users\sandr\source\repos\WindowsFormsApp5\Exercise2\obj\Debug\Exercise2.csproj.GenerateResource.Cache
+C:\Users\sandr\source\repos\WindowsFormsApp5\Exercise2\obj\Debug\Exercise2.csproj.CoreCompileInputs.cache
+C:\Users\sandr\source\repos\WindowsFormsApp5\Exercise2\obj\Debug\Exercise2.exe
+C:\Users\sandr\source\repos\WindowsFormsApp5\Exercise2\obj\Debug\Exercise2.pdb
+C:\Users\sandr\source\repos\WindowsFormsApp5\Exercise2\obj\Debug\Exercise2.csprojResolveAssemblyReference.cache

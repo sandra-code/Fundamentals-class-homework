@@ -1,0 +1,7 @@
+C:\Users\sandr\source\repos\14dets\AccountingEx\bin\Debug\AccountingEx.exe.config
+C:\Users\sandr\source\repos\14dets\AccountingEx\bin\Debug\AccountingEx.exe
+C:\Users\sandr\source\repos\14dets\AccountingEx\bin\Debug\AccountingEx.pdb
+C:\Users\sandr\source\repos\14dets\AccountingEx\obj\Debug\AccountingEx.csprojResolveAssemblyReference.cache
+C:\Users\sandr\source\repos\14dets\AccountingEx\obj\Debug\AccountingEx.csproj.CoreCompileInputs.cache
+C:\Users\sandr\source\repos\14dets\AccountingEx\obj\Debug\AccountingEx.exe
+C:\Users\sandr\source\repos\14dets\AccountingEx\obj\Debug\AccountingEx.pdb

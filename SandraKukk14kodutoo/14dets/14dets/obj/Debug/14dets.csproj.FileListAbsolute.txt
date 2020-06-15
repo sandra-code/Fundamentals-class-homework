@@ -1,0 +1,7 @@
+C:\Users\sandr\source\repos\14dets\14dets\bin\Debug\14dets.exe.config
+C:\Users\sandr\source\repos\14dets\14dets\bin\Debug\14dets.exe
+C:\Users\sandr\source\repos\14dets\14dets\bin\Debug\14dets.pdb
+C:\Users\sandr\source\repos\14dets\14dets\obj\Debug\14dets.csproj.CoreCompileInputs.cache
+C:\Users\sandr\source\repos\14dets\14dets\obj\Debug\14dets.exe
+C:\Users\sandr\source\repos\14dets\14dets\obj\Debug\14dets.pdb
+C:\Users\sandr\source\repos\14dets\14dets\obj\Debug\14dets.csprojResolveAssemblyReference.cache

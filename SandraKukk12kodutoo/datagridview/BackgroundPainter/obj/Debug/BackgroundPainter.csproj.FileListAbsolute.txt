@@ -1,0 +1,10 @@
+C:\Users\sandr\source\repos\datagridview\BackgroundPainter\bin\Debug\BackgroundPainter.exe.config
+C:\Users\sandr\source\repos\datagridview\BackgroundPainter\bin\Debug\BackgroundPainter.exe
+C:\Users\sandr\source\repos\datagridview\BackgroundPainter\bin\Debug\BackgroundPainter.pdb
+C:\Users\sandr\source\repos\datagridview\BackgroundPainter\obj\Debug\BackgroundPainter.csprojResolveAssemblyReference.cache
+C:\Users\sandr\source\repos\datagridview\BackgroundPainter\obj\Debug\BackgroundPainter.Form1.resources
+C:\Users\sandr\source\repos\datagridview\BackgroundPainter\obj\Debug\BackgroundPainter.Properties.Resources.resources
+C:\Users\sandr\source\repos\datagridview\BackgroundPainter\obj\Debug\BackgroundPainter.csproj.GenerateResource.Cache
+C:\Users\sandr\source\repos\datagridview\BackgroundPainter\obj\Debug\BackgroundPainter.csproj.CoreCompileInputs.cache
+C:\Users\sandr\source\repos\datagridview\BackgroundPainter\obj\Debug\BackgroundPainter.exe
+C:\Users\sandr\source\repos\datagridview\BackgroundPainter\obj\Debug\BackgroundPainter.pdb

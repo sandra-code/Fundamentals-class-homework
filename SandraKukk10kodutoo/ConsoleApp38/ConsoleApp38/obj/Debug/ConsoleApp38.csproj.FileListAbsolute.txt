@@ -1,0 +1,16 @@
+C:\Users\sandr\source\repos\ConsoleApp38\ConsoleApp38\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\sandr\source\repos\ConsoleApp38\ConsoleApp38\bin\Debug\nunit.engine.dll
+C:\Users\sandr\source\repos\ConsoleApp38\ConsoleApp38\bin\Debug\nunit.engine.api.dll
+C:\Users\sandr\source\repos\ConsoleApp38\ConsoleApp38\bin\Debug\Mono.Cecil.dll
+C:\Users\sandr\source\repos\ConsoleApp38\ConsoleApp38\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\sandr\source\repos\ConsoleApp38\ConsoleApp38\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\sandr\source\repos\ConsoleApp38\ConsoleApp38\bin\Debug\Mono.Cecil.Rocks.dll
+C:\Users\sandr\source\repos\ConsoleApp38\ConsoleApp38\bin\Debug\ConsoleApp38.exe.config
+C:\Users\sandr\source\repos\ConsoleApp38\ConsoleApp38\bin\Debug\ConsoleApp38.exe
+C:\Users\sandr\source\repos\ConsoleApp38\ConsoleApp38\bin\Debug\ConsoleApp38.pdb
+C:\Users\sandr\source\repos\ConsoleApp38\ConsoleApp38\bin\Debug\nunit.framework.dll
+C:\Users\sandr\source\repos\ConsoleApp38\ConsoleApp38\bin\Debug\nunit.framework.xml
+C:\Users\sandr\source\repos\ConsoleApp38\ConsoleApp38\obj\Debug\ConsoleApp38.csproj.CoreCompileInputs.cache
+C:\Users\sandr\source\repos\ConsoleApp38\ConsoleApp38\obj\Debug\ConsoleApp38.exe
+C:\Users\sandr\source\repos\ConsoleApp38\ConsoleApp38\obj\Debug\ConsoleApp38.pdb
+C:\Users\sandr\source\repos\ConsoleApp38\ConsoleApp38\obj\Debug\ConsoleApp38.csprojResolveAssemblyReference.cache

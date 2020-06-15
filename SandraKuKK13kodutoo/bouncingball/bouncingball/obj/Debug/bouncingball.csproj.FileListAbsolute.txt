@@ -1,0 +1,10 @@
+C:\Users\sandr\source\repos\bouncingball\bouncingball\bin\Debug\bouncingball.exe.config
+C:\Users\sandr\source\repos\bouncingball\bouncingball\bin\Debug\bouncingball.exe
+C:\Users\sandr\source\repos\bouncingball\bouncingball\bin\Debug\bouncingball.pdb
+C:\Users\sandr\source\repos\bouncingball\bouncingball\obj\Debug\bouncingball.csprojResolveAssemblyReference.cache
+C:\Users\sandr\source\repos\bouncingball\bouncingball\obj\Debug\bouncingball.Form1.resources
+C:\Users\sandr\source\repos\bouncingball\bouncingball\obj\Debug\bouncingball.Properties.Resources.resources
+C:\Users\sandr\source\repos\bouncingball\bouncingball\obj\Debug\bouncingball.csproj.GenerateResource.Cache
+C:\Users\sandr\source\repos\bouncingball\bouncingball\obj\Debug\bouncingball.csproj.CoreCompileInputs.cache
+C:\Users\sandr\source\repos\bouncingball\bouncingball\obj\Debug\bouncingball.exe
+C:\Users\sandr\source\repos\bouncingball\bouncingball\obj\Debug\bouncingball.pdb
